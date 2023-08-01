@@ -6,7 +6,7 @@ sites:
   - name: O365
     url: https://portal.office.com
   - name: Azure
-    url: https://portal.azure.com    
+    url: https://portal.azure.com
   - name: Google
     url: https://www.google.com
   - name: IT Glue
