@@ -9,6 +9,8 @@ sites:
     url: https://pbs.itglue.com
   - name: N-Able
     url: https://rescue.pbscompany.com
+  - name: Gmail
+    url: https://mail.google.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
