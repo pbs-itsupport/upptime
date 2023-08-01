@@ -7,7 +7,7 @@ sites:
     url: https://www.google.com
   - name: IT Glue
     url: https://pbs.itglue.com
-  -name: N-Able
+  - name: N-Able
     url: https://rescue.pbscompany.com
 
 status-website:
