@@ -25,9 +25,6 @@ sites:
     url: 1.1.1.1
     icon: https://1.1.1.1/favicon.ico
     port: 53
-  - name: Nutramed - 35 Melanie
-    check: "tcp-ping"
-    url: https://75.99.161.198
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
