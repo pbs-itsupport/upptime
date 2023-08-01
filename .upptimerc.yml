@@ -6,7 +6,9 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: IT Glue
-    url: https://pbs.itglue.com/
+    url: https://pbs.itglue.com
+  -name: N-Able
+    url: https://rescue.pbscompany.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
