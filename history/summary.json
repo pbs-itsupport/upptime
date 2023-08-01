@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.google.com.ico",
     "slug": "gmail",
     "status": "up",
-    "uptime": "4.44%",
-    "uptimeDay": "4.44%",
-    "uptimeWeek": "4.44%",
-    "uptimeMonth": "4.44%",
-    "uptimeYear": "4.44%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 272,
     "timeDay": 272,
     "timeWeek": 272,
     "timeMonth": 272,
     "timeYear": 272,
-    "dailyMinutesDown": {
-      "2023-08-01": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
