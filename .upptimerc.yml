@@ -20,7 +20,7 @@ status-website:
   #General Settings
   baseUrl: /upptime
   theme: night
-  logoUrl: https://github.com/pbs-itsupport/upptime/blob/master/assets/whitesquare.png
+  logoUrl: https://raw.githubusercontent.com/pbs-itsupport/upptime/6accfa93c903accb6b9de4b94f803b0988f3489b/assets/whitesquare.png
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: PBS Status Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
