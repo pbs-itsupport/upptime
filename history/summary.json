@@ -60,18 +60,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 104,
-    "timeWeek": 103,
-    "timeMonth": 136,
-    "timeYear": 136,
-    "dailyMinutesDown": {}
+    "time": 140,
+    "timeDay": 228,
+    "timeWeek": 134,
+    "timeMonth": 140,
+    "timeYear": 140,
+    "dailyMinutesDown": {
+      "2023-08-17": 0
+    }
   },
   {
     "name": "IT Glue",
