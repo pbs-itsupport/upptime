@@ -4,18 +4,20 @@
     "url": "https://portal.office.com",
     "icon": "https://icons.duckduckgo.com/ip3/portal.office.com.ico",
     "slug": "o365",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 151,
-    "timeWeek": 336,
-    "timeMonth": 349,
-    "timeYear": 378,
-    "dailyMinutesDown": {}
+    "time": 409,
+    "timeDay": 1459,
+    "timeWeek": 640,
+    "timeMonth": 427,
+    "timeYear": 409,
+    "dailyMinutesDown": {
+      "2023-10-06": 0
+    }
   },
   {
     "name": "Connectwise",
